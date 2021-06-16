@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50 px;
+    color: white;
+}
+
+video {
+    display:block;
+    margin:auto;
+}
+p a {
+    font-size: 16px;
+    color:aquamarine
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color:white;
+}
